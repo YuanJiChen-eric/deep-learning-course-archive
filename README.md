@@ -1,2 +1,3 @@
-# deep-learning-course-archive
-YOLO course experiment archive, checkpoints and inference results
+# 深度学习课程设计归档
+
+请到 [Releases](../../releases) 下载完整归档 ZIP。包含实验报告、训练和推理代码、启辰基线与增强模型及勤思模型的训练权重、验证结果、个人标注成果和测试集预测。训练、验证、测试和增强数据集均已排除。解压后请参阅归档说明。
